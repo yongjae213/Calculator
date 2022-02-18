@@ -21,6 +21,6 @@ def main():
             division()
             break
         else:
-            print('Error. Please type the correct operation.')
+            print('Error! Please type the correct operation.')
             continue
 main()
