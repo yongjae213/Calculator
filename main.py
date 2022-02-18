@@ -6,6 +6,7 @@ def main():
     print("'2' for subtraction")
     print("'3' for multiplication")
     print("'4' for division")
+    print("Any other input will cause an error and repeat the input.")
     while True:
         switch = input("Please type your operation: ")
         if switch == '1':
